@@ -1,0 +1,94 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #fcfbfa;
+}
+
+.dropdown-item {
+  color:#A68160;
+}
+
+.social-part .fa {
+  padding-right: 20px;
+  justify-content: end;
+  color: #A68160
+}
+
+ul li a {
+  margin-right: 40px;
+}
+
+.social-part {
+  display: inline;
+}
+
+.training-stage {
+  text-align: center;
+  padding: 5%;
+  letter-spacing: 5px;
+  color: #A68160;
+}
+
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+  padding-bottom: 10%;
+}
+
+.flex-item {
+    opacity: 0.8;
+    padding: 0 5px;
+    width: 50%;
+}
+
+.flex-item iframe{
+    width: 50% ;
+    height: auto;
+}
+
+.flex-item:hover{
+    opacity: 1;
+    transition: 0.9;
+}
+
+.description {
+  text-align: center;
+}
+
+.btn {
+  color: white;
+  background-color: #A68160;
+  outline-color: #A68160;
+  border-color: #A68160;
+}
+
+.btn:hover {
+  background-color: #4E5E72;
+  background-color: #4E5E72;
+  outline-color: #4E5E72;
+  border-color: #4E5E72;
+}
+
+.subscribe-btn {
+  color: #fff;
+  background-color: #a68160 !important;
+  border-color: #a68160 !important;
+}
+
+.container p-4 pb-0,
+.col-auto {
+  color: #A68160;
+}
+
+.modal-title{
+  color: #A68160;
+  background-color: #fcfbfa;
+}
+
+.modal-body {
+  color: #A68160;
+  background-color: #fcfbfa;
+}

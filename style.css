@@ -1,0 +1,109 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #fcfbfa;
+}
+
+.dropdown-item {
+  color:#A68160;
+}
+
+.social-part .fa {
+  padding-right: 20px;
+  justify-content: end;
+  color: #A68160
+}
+
+ul li a {
+  margin-right: 40px;
+}
+
+.social-part {
+  display: inline;
+}
+
+.carousel-inner{
+  background-size: stretch;
+  background-image: stretch;
+}
+
+.btn {
+  color: white;
+  background-color: #A68160;
+  outline-color: #A68160;
+  border-color: #A68160;
+}
+
+.btn:hover {
+  background-color: #4E5E72;
+  background-color: #4E5E72;
+  outline-color: #4E5E72;
+  border-color: #4E5E72;
+}
+
+.subscribe-btn {
+  color: #fff;
+  background-color: #a68160 !important;
+  border-color: #a68160 !important;
+}
+
+.container p-4 pb-0 {
+  color: #A68160;
+}
+
+.col-auto {
+  color: #A68160;
+}
+
+.carousel-size {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+h1 {
+  color: #A68160;
+}
+p 
+{
+  color: #A68160;
+}
+
+.modal-title{
+  color: #A68160;
+  background-color: #fcfbfa;
+}
+
+.modal-body {
+  color: #A68160;
+  background-color: #fcfbfa;
+}
+
+.indroducing-us {
+    background: #e8cbc0;
+    background: -webkit-linear-gradient(to right, #e8cbc0, #636fa4);
+    background: linear-gradient(to right, #e8cbc0, #636fa4);
+    min-height: 100vh;
+}
+
+.social-link {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    border-radius: 50%;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+}
+
+.social-link:hover, .social-link:focus {
+    background: #ddd;
+    text-decoration: none;
+    color: #555;
+}
+
